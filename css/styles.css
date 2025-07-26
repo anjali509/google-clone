@@ -36,10 +36,10 @@ body{
   padding: 0;
 }
 
-.g-blue { color: #4285F4; }   /* Blue */
-.o-red  { color: #EA4335; }   /* Red */
-.o-yellow { color: #FBBC05; } /* Yellow */
-.l-green { color: #34A853; }  /* Green */
+.g-blue { color: #4285F4; } 
+.o-red  { color: #EA4335; }  
+.o-yellow { color: #FBBC05; } 
+.l-green { color: #34A853; }  
 .e-red  { color: #EA4335; }   
 
 .search-container{

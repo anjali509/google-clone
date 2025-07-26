@@ -36,6 +36,12 @@ span {
     font-size: 15px;
 }
 
+.g-blue { color: #4285F4; } 
+.o-red  { color: #EA4335; }  
+.o-yellow { color: #FBBC05; } 
+.l-green { color: #34A853; }  
+.e-red  { color: #EA4335; }  
+
 .heading {
     font-size: 25px;
     color: rgb(170, 39, 39);
